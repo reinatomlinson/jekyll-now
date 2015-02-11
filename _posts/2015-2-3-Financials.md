@@ -3,8 +3,9 @@ layout: post
 title: ADR Financials Audit and General Update
 ---
 
-Tester tester 1
+After Iteration 2:
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Tuesday 10 February
+Finished Financials Audit project. After a few kinks (parsing the incorrect units, counting the values incorrectly), had a decent Ruby program to parse and count the monthly income from A Dark Room over the months November 2013- December 2014. The numbers ended up being okay (according to Amir), time to move on! Feeling like I'm getting closer to being caught up, but still struggling a bit.
+Downloaded RubyMotion yesterday, workshop tomorrow with Amir.
+In the meantime, going to take a look at Oak.
