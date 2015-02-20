@@ -1,5 +1,3 @@
-2015-2-20-Java_Based_Game_Engine
-
 ---
 layout: post
 title: Java Based Game Engine
