@@ -8,4 +8,4 @@ RubyMotion workshop on Wednesday; need to faciliate one at some point.
 
 ***************************************
 
-Edit (now 10 March):
+Edit (now 25 March):
