@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Reina Tomlinson
-Senior at UTDallas in Richardson, Texas.
-Computer Science B.S. anticipated May 2015.
+##Reina Tomlinson
+Computer Science B.S. from University of Texas at Dallas May 2015
 
-### Contact me
+###Contact me
 
-[reinatomlinson31@dgmail.com](mailto:reinatomlinson31@gmail.com)
+[reinatomlinson31@gmail.com](mailto:reinatomlinson31@gmail.com)
