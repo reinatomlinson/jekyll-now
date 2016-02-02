@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://raw.githubusercontent.com/reinatomlinson/reinatomlinson.github.io/master/images/ReinaTomlinsonUTDGraduation.jpg" width="150" height="150" />
+<img src="https://raw.githubusercontent.com/reinatomlinson/reinatomlinson.github.io/master/images/ReinaTomlinsonUTDGraduation.jpg" width="200" />
 
 ##Reina Tomlinson
 Computer Science B.S. from University of Texas at Dallas
