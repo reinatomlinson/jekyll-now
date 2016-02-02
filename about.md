@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<img src="aremte_logo.jpg" alt="Drawing" style="width: 200px;"/>
 ![alt text]
 
 ##Reina Tomlinson
