@@ -13,7 +13,7 @@ Cum Laude
 
 May 2015
 
-[Resume](www.google.com)
+[Resume](reinatomlinson.github.io/images/ReinaTomlinsonResume2016.pdf)
 
 ###Contact me
 
