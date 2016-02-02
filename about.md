@@ -8,8 +8,10 @@ permalink: /about/
 
 Reina Tomlinson
 Computer Science B.S. from University of Texas at Dallas
-\nCum Laude
+Cum Laude
 May 2015
+
+[Resume][www.google.com]
 
 ###Contact me
 
