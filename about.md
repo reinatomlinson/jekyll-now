@@ -13,7 +13,7 @@ Cum Laude
 
 May 2015
 
-[Resume][www.google.com]
+[Resume](www.google.com)
 
 ###Contact me
 
