@@ -13,7 +13,7 @@ Cum Laude
 
 May 2015
 
-[Resume](/ReinaTomlinsonResume2016.pdf)
+[Resume](images/ReinaTomlinsonResume2016.pdf)
 
 ###Contact me
 
