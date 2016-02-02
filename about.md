@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-![alt text]
+<img src="aremte_logo.jpg" alt="Drawing" style="width: 200px;"/>
 
 ##Reina Tomlinson
 Computer Science B.S. from University of Texas at Dallas
