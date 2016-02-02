@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-![alt text]
-
 ##Reina Tomlinson
 Computer Science B.S. from University of Texas at Dallas
 May 2015
