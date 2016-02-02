@@ -8,7 +8,7 @@ layout: default
       
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
+      <pubDate>{{ post.date | date: "%a, %d %b %Y" }}</pubDate>
 
       <div class="entry">
         {{ post.content | truncatewords:40}}
