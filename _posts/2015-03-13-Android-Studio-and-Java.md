@@ -3,11 +3,12 @@ layout: post
 title: Android Studio and Java
 ---
 
-###10 March
+10 March
+--------
 This section is being written 12 March (after the fact), so it wont be as thorough as it would have been if I typed it actually on the 10th (oops).
 
-###13 March
-
+13 March
+--------
 10:51 AM
 Have been trying out different ways of implementing the Map Screen (a 60x60 character grid); the concern is whether or not we can build it such that the screen can update rapidly (doesn't delay: that would be unacceptable for users).
 So, my first implementation was just using a single dimensional character array (of "a"), and displaying that in a TextView. When a button is pushed, the app calls the method "changeMap" which steps through a loop that takes each character in the array and appends it to a String, which the TextView's content is then set to (so the TextView is updtaed on each iteration of that loop, i.e. as many times as there are characters in the array).
