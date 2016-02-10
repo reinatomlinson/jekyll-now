@@ -3,10 +3,8 @@ layout: post
 title: Getting the Code Rolling
 ---
 
-7 March 2015
---------
-
 Group meeting/hackathon:
+--------
 Working from Central Market. Still working on getting the HelloWorld sample app (in RubyMotion)running on a device. Everything is installed (I think).
 To install: first of all, the RubyMotion tutorial is a great help, so that should be the starting point for anyone. 
 

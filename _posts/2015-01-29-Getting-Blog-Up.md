@@ -4,6 +4,7 @@ title: First Post - Getting set and caught up
 ---
 
 Iteration 1:
+--------
 Getting Ruby, Jekyll blog set up on Github. Ruby came installed on Macbook Pro (January 2015, 256 GB model). Had to use “sudo” to install Ruby gems and update Ruby software. Not feeling entirely confident about if I’m doing this all correctly. Do I wait to install RubyMotion? They said they would get the licenses through the school.
 
 Installed Nodes.js from nodesjs.org:
